@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\WorkAssignment\WorkAssignment\bin\Debug\net8.0\WorkAssignment.exe
+C:\Users\Admin\source\repos\WorkAssignment\WorkAssignment\bin\Debug\net8.0\WorkAssignment.deps.json
+C:\Users\Admin\source\repos\WorkAssignment\WorkAssignment\bin\Debug\net8.0\WorkAssignment.runtimeconfig.json
+C:\Users\Admin\source\repos\WorkAssignment\WorkAssignment\bin\Debug\net8.0\WorkAssignment.dll
+C:\Users\Admin\source\repos\WorkAssignment\WorkAssignment\bin\Debug\net8.0\WorkAssignment.pdb
+C:\Users\Admin\source\repos\WorkAssignment\WorkAssignment\obj\Debug\net8.0\WorkAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\WorkAssignment\WorkAssignment\obj\Debug\net8.0\WorkAssignment.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\WorkAssignment\WorkAssignment\obj\Debug\net8.0\WorkAssignment.AssemblyInfo.cs
+C:\Users\Admin\source\repos\WorkAssignment\WorkAssignment\obj\Debug\net8.0\WorkAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\WorkAssignment\WorkAssignment\obj\Debug\net8.0\WorkAssignment.dll
+C:\Users\Admin\source\repos\WorkAssignment\WorkAssignment\obj\Debug\net8.0\refint\WorkAssignment.dll
+C:\Users\Admin\source\repos\WorkAssignment\WorkAssignment\obj\Debug\net8.0\WorkAssignment.pdb
+C:\Users\Admin\source\repos\WorkAssignment\WorkAssignment\obj\Debug\net8.0\WorkAssignment.genruntimeconfig.cache
+C:\Users\Admin\source\repos\WorkAssignment\WorkAssignment\obj\Debug\net8.0\ref\WorkAssignment.dll
